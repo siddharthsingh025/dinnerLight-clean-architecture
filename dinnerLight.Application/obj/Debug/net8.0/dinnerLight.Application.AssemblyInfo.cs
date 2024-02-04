@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dinnerLight.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da73d13b40f6a063c4b8e0057e4431e7a4f7f84c")]
 [assembly: System.Reflection.AssemblyProductAttribute("dinnerLight.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dinnerLight.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

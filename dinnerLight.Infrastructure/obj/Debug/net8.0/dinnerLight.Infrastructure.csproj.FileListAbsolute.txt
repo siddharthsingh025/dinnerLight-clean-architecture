@@ -15,3 +15,4 @@
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/bin/Debug/net8.0/dinnerLight.Domain.pdb
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.csproj.AssemblyReference.cache
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.csproj.CopyComplete
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.sourcelink.json

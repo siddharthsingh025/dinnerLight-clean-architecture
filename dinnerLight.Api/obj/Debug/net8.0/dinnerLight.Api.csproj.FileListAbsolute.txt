@@ -33,3 +33,9 @@
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Api/bin/Debug/net8.0/dinnerLight.Application.pdb
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Api/bin/Debug/net8.0/dinnerLight.Infrastructure.pdb
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Api/bin/Debug/net8.0/dinnerLight.Domain.pdb
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Api/obj/Debug/net8.0/dinnerLight.Api.sourcelink.json

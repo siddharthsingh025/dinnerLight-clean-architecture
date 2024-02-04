@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 // basically service injection
     builder.Services
     .AddApplication()
-    .AddInfrastructure();
+    .AddInfrastructure(builder.Configuration);
 
     builder.Services.AddControllers();
 }

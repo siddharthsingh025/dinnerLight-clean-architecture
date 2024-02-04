@@ -9,3 +9,4 @@
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Contract/obj/Debug/net8.0/refint/dinnerLight.Contract.dll
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Contract/obj/Debug/net8.0/dinnerLight.Contract.pdb
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Contract/obj/Debug/net8.0/ref/dinnerLight.Contract.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Contract/obj/Debug/net8.0/dinnerLight.Contract.sourcelink.json

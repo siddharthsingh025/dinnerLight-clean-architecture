@@ -13,3 +13,4 @@
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/bin/Debug/net8.0/dinnerLight.Domain.pdb
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.csproj.AssemblyReference.cache
 /Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.csproj.CopyComplete
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.sourcelink.json
