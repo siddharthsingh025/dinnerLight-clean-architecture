@@ -1,0 +1,6 @@
+@host = http://localhost:5251
+
+POST {{host}}/auth/register
+Accept: application/json
+
+###

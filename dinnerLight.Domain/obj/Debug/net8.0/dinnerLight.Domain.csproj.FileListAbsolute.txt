@@ -1,0 +1,11 @@
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/bin/Debug/net8.0/dinnerLight.Domain.deps.json
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/bin/Debug/net8.0/dinnerLight.Domain.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/bin/Debug/net8.0/dinnerLight.Domain.pdb
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/obj/Debug/net8.0/dinnerLight.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/obj/Debug/net8.0/dinnerLight.Domain.AssemblyInfoInputs.cache
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/obj/Debug/net8.0/dinnerLight.Domain.AssemblyInfo.cs
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/obj/Debug/net8.0/dinnerLight.Domain.csproj.CoreCompileInputs.cache
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/obj/Debug/net8.0/dinnerLight.Domain.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/obj/Debug/net8.0/refint/dinnerLight.Domain.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/obj/Debug/net8.0/dinnerLight.Domain.pdb
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Domain/obj/Debug/net8.0/ref/dinnerLight.Domain.dll

@@ -1,0 +1,17 @@
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/bin/Debug/net8.0/dinnerLight.Infrastructure.deps.json
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/bin/Debug/net8.0/dinnerLight.Infrastructure.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/bin/Debug/net8.0/dinnerLight.Infrastructure.pdb
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.AssemblyInfoInputs.cache
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.AssemblyInfo.cs
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/refint/dinnerLight.Infrastructure.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.pdb
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/ref/dinnerLight.Infrastructure.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/bin/Debug/net8.0/dinnerLight.Application.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/bin/Debug/net8.0/dinnerLight.Domain.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/bin/Debug/net8.0/dinnerLight.Application.pdb
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/bin/Debug/net8.0/dinnerLight.Domain.pdb
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.csproj.AssemblyReference.cache
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Infrastructure/obj/Debug/net8.0/dinnerLight.Infrastructure.csproj.CopyComplete

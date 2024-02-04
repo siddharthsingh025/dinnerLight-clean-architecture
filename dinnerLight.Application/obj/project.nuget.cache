@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIQoDMhON4PlDF9dSx7GV3nhPbfgvg8DaUDKR63/VgB+InFDFj8JwX6esLixFyFoH/UxvIXindZ8Dvbhd5EqeA==",
+  "success": true,
+  "projectFilePath": "/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/dinnerLight.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/siddharthsingh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

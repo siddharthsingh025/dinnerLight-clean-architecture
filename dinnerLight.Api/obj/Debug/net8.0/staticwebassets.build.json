@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2MHBAQ4htOFqMy1mT31IYCUSQhraWLWDNmFtfngSaAs=",
+  "Source": "dinnerLight.Api",
+  "BasePath": "_content/dinnerLight.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

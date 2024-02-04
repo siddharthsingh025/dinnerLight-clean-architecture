@@ -1,0 +1,15 @@
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/bin/Debug/net8.0/dinnerLight.Application.deps.json
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/bin/Debug/net8.0/dinnerLight.Application.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/bin/Debug/net8.0/dinnerLight.Application.pdb
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.AssemblyInfoInputs.cache
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.AssemblyInfo.cs
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.csproj.CoreCompileInputs.cache
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/refint/dinnerLight.Application.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.pdb
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/ref/dinnerLight.Application.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/bin/Debug/net8.0/dinnerLight.Domain.dll
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/bin/Debug/net8.0/dinnerLight.Domain.pdb
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.csproj.AssemblyReference.cache
+/Users/siddharthsingh/Documents/Desk-Local/c# Project /dinnerLight/dinnerLight.Application/obj/Debug/net8.0/dinnerLight.Application.csproj.CopyComplete
